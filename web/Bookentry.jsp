@@ -31,7 +31,7 @@
             <center><h1 style="color:#000000;width: 10em;size: 5em;height: 1em;">BOOK ENTRY</h1></br>
             </center>
                 <center>
-                    <b style="color: #666666;">BOOK NAME</b>
+            <b style="color: #666666;">BOOK NAME</b>
             <input type="text" name="bookname" style="color: #333333;width: 15em;size: 10em;height: 2em;"/>
             <b style="color: #666666;">AUTHOR</b>
             <input type="text" name="author" style="color: #333333;width: 15em;size: 10em;height: 2em;"/><br><br>
