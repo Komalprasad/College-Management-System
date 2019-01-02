@@ -46,7 +46,6 @@ public class Login extends HttpServlet {
           {
               request.setAttribute("error","INCORRECT LOGIN ID");
               request.setAttribute("errorc","login.jsp");
-              
               RequestDispatcher rd=request.getRequestDispatcher("login.jsp");
               HttpSession hs=request.getSession();
               hs.setAttribute(name,"name");
